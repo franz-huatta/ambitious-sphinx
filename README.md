@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+YOLOv8 INT8 TFLite Inference Example (#7317)
