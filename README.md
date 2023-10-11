@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Replacing Images for torchscript.md (#8596)
