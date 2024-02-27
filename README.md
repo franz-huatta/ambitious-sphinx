@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
